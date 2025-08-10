@@ -1,0 +1,27 @@
+.Highlight-text{
+    background-color: rgb(55, 11, 95);
+}
+
+body{
+    background-color: rgb(69, 69, 189);
+}
+
+#unique-paragraph{
+    background-color: rgb(84, 12, 12);
+}
+
+.about-me{
+    background-color: rgb(5, 98, 67);
+}
+
+div .addition{
+    background-color: rgb(150, 38, 18);
+}
+
+.lorem,.color{
+    background-color: green;
+}
+
+ul #music{
+    background-color: blueviolet;
+}
